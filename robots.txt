@@ -1,0 +1,5 @@
+Sitemap:https://seghrouchni-berrabhia.netlify.app/sitemap.xml
+
+User-agent: *
+Disallow:/francais/mesurable.html
+Allow:/sitemap.xml
